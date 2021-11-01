@@ -1,0 +1,4 @@
+The project is not done. 
+The project objective is to select diverse pictures of different persons for a photo album. 
+So far I use YOLO to detect and count the number of persons in the pictures. 
+I added some challenging pictures for the YOLO algorithm.
